@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20120818-r5686">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="cars/ThirdCategory.java" package="car_browser.cars" timestamp="11-Nov-2013 18:17:39">
+        <select from="27" to="27"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="classes/ClassE.java" package="car_browser.classes" timestamp="11-Nov-2013 17:42:52">
+        <select from="27" to="27"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="classes/ClassCLS.java" package="car_browser.classes" timestamp="11-Nov-2013 17:42:52">
+        <select from="27" to="27"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="classes/ClassCL.java" package="car_browser.classes" timestamp="11-Nov-2013 17:42:52">
+        <select from="27" to="27"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="cars/Executive.java" package="car_browser.cars" timestamp="11-Nov-2013 18:00:32">
+        <select from="27" to="27"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="browser/Browser.java" package="car_browser.browser" timestamp="11-Nov-2013 18:00:32">
+        <select from="27" to="27"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="cars/Car.java" package="car_browser.cars" timestamp="11-Nov-2013 18:00:32">
+        <select from="27" to="27"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="cars/GrandTourer.java" package="car_browser.cars" timestamp="11-Nov-2013 18:00:32">
+        <select from="27" to="27"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="cars/FirstCategory.java" package="car_browser.cars" timestamp="11-Nov-2013 18:13:10">
+        <select from="27" to="27"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="cars/SecondCategory.java" package="car_browser.cars" timestamp="11-Nov-2013 18:15:26">
+        <select from="27" to="27"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="cars/MercedesW140.java" package="car_browser.cars" timestamp="11-Nov-2013 18:28:02">
+        <select from="27" to="27"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="cars/MercedesW212.java" package="car_browser.cars" timestamp="11-Nov-2013 18:28:34">
+        <select from="27" to="27"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="cars/MercedesW219.java" package="car_browser.cars" timestamp="11-Nov-2013 18:28:34">
+        <select from="27" to="27"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
